@@ -1,4 +1,4 @@
-# 👋 I'm **Võ Quốc Đại** (Han)
+# 👋 你好，I'm **Võ Quốc Đại** (Han)
 🎓 B.Sc. Data Science @ Ho Chi Minh University of Technology (Expected 2028) | 📍 Ho Chi Minh City, Vietnam  
 🟢 **Open to Work** | Data Scientist | Data Analyst | Business Analyst | MLOps  
 🔍 Focused on transforming complex data into actionable insights, scalable ML pipelines, and data-driven business solutions.
