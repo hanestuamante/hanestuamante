@@ -22,18 +22,14 @@
 | 🌐 **Automation & Web** | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) |
 | 📝 **Academic & Environment** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) |
 
----
 ## 📈 GitHub Activity & Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanestuamante&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanestuamante&theme=dark&hide_border=true&layout=compact&count_private=false" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanestuamante&theme=dark&hide_border=true" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hanestuamante&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="45%" />
-</p>
 
----
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hanestuamante&theme=dark&hide_border=true" height="185" alt="Commit Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hanestuamante&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="185" alt="Profile Trophies" />
+</div>
+
 ## 📫 Professional Contact
 I am currently seeking **internship and junior-level opportunities** in Data Science, Data Analysis, Business Analysis, and MLOps.  
 Feel free to reach out for collaboration, networking, or professional inquiries.
